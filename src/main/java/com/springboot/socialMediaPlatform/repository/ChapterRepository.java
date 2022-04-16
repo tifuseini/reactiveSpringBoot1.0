@@ -1,2 +1,4 @@
-package com.springboot.socialMediaPlatform.repository;public interface ChapterRepository {
+package com.springboot.socialMediaPlatform.repository;
+
+public interface ChapterRepository {
 }
