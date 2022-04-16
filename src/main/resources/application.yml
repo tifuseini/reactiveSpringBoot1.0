@@ -8,3 +8,5 @@ server:
 endpoints:
   health:
     enabled: true
+  metrics:
+    enabled: true
