@@ -4,3 +4,7 @@ application:
 
 server:
   port: 9000
+
+endpoints:
+  health:
+    enabled: true
