@@ -3,7 +3,7 @@ ${AnsiBackground.BLUE}   '   .-'   ,---.   ,---. `--'  ,--,--. |  |   |   `.'   
 ${AnsiBackground.YELLOW} `.  `-.  | .-. | | .--' ,--. ' ,-.  | |  |   |  |'.'|  | | .-. : ' .-. | ,--. ' ,-.  |
 ${AnsiBackground.GREEN}  .-'    | ' '-' ' \ `--. |  | \ '-'  | |  |   |  |   |  | \   --. \ `-' | |  | \ '-'  |
 ${AnsiBackground.MAGENTA}`-----'   `---'   `---' `--'  `--`--' `--'   `--'   `--'  `----'  `---'  `--'  `--`--'
-
+${AnsiBackground.DEFAULT}
 
 ${application.title} ${application.version}
 Powered by Spring Boot ${spring-boot.version}
