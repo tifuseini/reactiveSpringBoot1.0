@@ -1,2 +1,4 @@
-package com.springboot.socialMediaPlatform.utils;public class LoadDatabase {
+package com.springboot.socialMediaPlatform.utils;
+
+public class LoadDatabase {
 }
