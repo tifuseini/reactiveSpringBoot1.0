@@ -1,0 +1,6 @@
+application:
+  title: Social media
+  version: 1.0.0
+
+server:
+  port: 9000
